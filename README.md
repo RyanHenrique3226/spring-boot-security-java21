@@ -1,6 +1,6 @@
 # Spring Boot Security – Role Based Authentication (Java 21)
 
-Projeto de estudo desenvolvido durante um **bootcamp**, utilizando **Spring Boot 3.x** e **Spring Security 6**, com autenticação via formulário e controle de acesso baseado em **roles**.
+Projeto de estudo desenvolvido durante um **bootcamp**, utilizando **Spring Boot 3.5.11** e **Spring Security 6**, com autenticação via formulário e controle de acesso baseado em **roles**.
 
 Embora o conteúdo original do curso utilizasse versões antigas do Spring (Spring Boot 2.x) e Java 8, este projeto foi **refatorado e adaptado** para funcionar corretamente com **Java 21** e a **configuração moderna do Spring Security**, evitando APIs legadas.
 
@@ -9,7 +9,7 @@ Embora o conteúdo original do curso utilizasse versões antigas do Spring (Spri
 ##  Tecnologias Utilizadas
 
 * Java 21
-* Spring Boot 3.5.x
+* Spring Boot 3.5.11
 * Spring Security 6
 * Gradle
 * BCrypt Password Encoder
